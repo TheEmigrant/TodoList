@@ -1,0 +1,24 @@
+button {
+  color: white;
+  background-color: blue;
+  margin: 3px;
+  font-size: 20px;
+  font-family: times;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: white;
+  color: blue;
+  border: none;
+}
+
+input {
+  font-size: 20px;
+  margin: 3px;
+}
+
+input:hover {
+  background-color: lightblue;
+}
