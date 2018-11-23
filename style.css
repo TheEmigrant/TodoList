@@ -22,3 +22,8 @@ input {
 input:hover {
   background-color: lightblue;
 }
+
+ul {
+  font-size: 20px;
+  color:red;
+} 
